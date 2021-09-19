@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/taniarascia-react-tutorial-typed/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/taniarascia-react-tutorial-typed/static/js/main.7f199efa.chunk.js",
+    "main.js.map": "/taniarascia-react-tutorial-typed/static/js/main.7f199efa.chunk.js.map",
+    "runtime-main.js": "/taniarascia-react-tutorial-typed/static/js/runtime-main.081a981f.js",
+    "runtime-main.js.map": "/taniarascia-react-tutorial-typed/static/js/runtime-main.081a981f.js.map",
+    "static/js/2.5d9aebce.chunk.js": "/taniarascia-react-tutorial-typed/static/js/2.5d9aebce.chunk.js",
+    "static/js/2.5d9aebce.chunk.js.map": "/taniarascia-react-tutorial-typed/static/js/2.5d9aebce.chunk.js.map",
+    "index.html": "/taniarascia-react-tutorial-typed/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/taniarascia-react-tutorial-typed/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5d9aebce.chunk.js.LICENSE.txt": "/taniarascia-react-tutorial-typed/static/js/2.5d9aebce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.081a981f.js",
+    "static/js/2.5d9aebce.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.7f199efa.chunk.js"
+  ]
+}
